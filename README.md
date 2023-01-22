@@ -1,1 +1,0 @@
-Este proyecto trata de una tienda imaginaria de vinilos los cuales se comercializan tanto en internet como presencialmente. La idea de este landing page es usar tanto Bootstrap como CSS. Se hace uso extensivo de grids. Espero que sea de su agrado. Atte. Darío Ávila A. Punta Arenas, Chile. Año 2022.
